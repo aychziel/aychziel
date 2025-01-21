@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to My GitHub Profile!
 
-![GitHub Header](https://drive.google.com/drive/u/0/my-drive)
+![GitHub Header](https://drive.google.com/file/d/1jywaQbOCH9qEYrDToBWjrFVyCXxmsOy0/view?usp=sharing)
 
 ## 🚀About Me
 👋 Hi, I'm Haziel Andrade. I am a **Data Scientist** and **Data Analyst** passionate about building and providing data-driven solutions that help shape in influence products and decisions.
