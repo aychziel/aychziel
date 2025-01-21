@@ -1,7 +1,6 @@
 ## Hi there 👋 Welcome to My GitHub Profile!
 
-![GitHub Header](https://t3.ftcdn.net/jpg/03/74/32/50/240_F_374325002_yKm0NXdF2xg2ElWDgvu02rUOFDpq7Wkv.jpg)
-
+![GitHub Header](file:///Users/haziel/Downloads/Untitled%20(3).png)
 
 ## 🚀About Me
 👋 Hi, I'm Haziel Andrade. I am a **Data Scientist** and **Data Analyst** passionate about building and providing data-driven solutions that help shape in influence products and decisions.
