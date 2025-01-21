@@ -16,6 +16,4 @@ My work typically focuses on optimizing and cleaning data, enhance data-driven d
 
 ⚡ In my spare time, I enjoy spending time with my husky 🐶 finding new recipes to cook 👨‍🍳 and listening to music 🎧. 
 
-📫 How to reach me: Message me on [Linkedin](https://www.linkedin.com/in/hazielandrade/)<!--
-
--->
+📫 How to reach me: Message me on [Linkedin!](https://www.linkedin.com/in/hazielandrade/)
