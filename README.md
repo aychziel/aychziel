@@ -1,5 +1,3 @@
-## Hi there 👋 
-
 ## About Me
 Hi, I'm Haziel Andrade. I am a **Data Scientist** and **Data Analyst** passionate about building and providing data-driven solutions that help shape in influence products and decisions.
 
