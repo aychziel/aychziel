@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm Haziel Andrade. I am a **Data Scientist** and **Data Analyst** passionate about building and providing data-driven solutions that help shape in influence products and decisions.
+Hi, I'm Haziel Andrade. I am a **Data Scientist** and **Data Analyst** passionate about building and providing data-driven solutions that help shape and influence products and decisions.
 
 My work focuses on optimizing and cleaning data, enhancing data-driven decision-making, and research through exploratory data all by having hands-on experience through projects in different sectors such as software, product and advertising/sales. Overall, making the day-to-day responsibilities of those around me a bit easier. 
 
